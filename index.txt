@@ -1,0 +1,68 @@
+Below Jumbotron
+
+
+Welcome to the Computer Science Pathway at Franklin High School. My name is Mr. Dagler, and I am the teacher for this pathway. At this website, you will find a description for all of the classes I teach and how I connect my students to industry partners: guest speakers, field trips, coding camps, and computations. 
+
+
+
+There are two options for this pathway: a programming one and a web-development one. The programming pathway requires you to take exploring computer science, AP computer science A and AP computer science principles in order. Where, the web-development pathway requres you to take exploring computer science, web-development 1 and web-development 2 in order.  You will earn _________ if you take one additional computer science course in either pathway and receive a graduation cord. If you are interested in my classes or have any other questions, please contact me at mrdagler@csfhs.net.
+
+
+
+Rows
+
+
+Exploring Computer Science
+
+Discover the vast world of computer science • Learn the command line interface • Develop problem-solving skills and techniques • Program using the C language • Create code for modular robotics • Compete at a statewide programming/robotics competition. 
+
+link to webpage          link to GitHub handouts
+
+
+
+AP Computer Science A
+
+Learn content equivalent to a first-semester college-level course in CS • Learn object-oriented programming using the Java language • Solve problems by developing algorithms and using data structures • Compete at HP CodeWars • Earn a 5.0 GPA bump and college credit by taking the AP test. 
+
+link to webpage          link to GitHub handouts
+
+
+
+AP Computer Science Principles
+
+Explore how computing and technology is impacting us today through a project-based approach • Address real-world problems involving Big Data and Cybersecurity • Earn a 5.0 GPA bump and college credit by taking the AP test. 
+link to webpage          link to GitHub handouts
+
+
+
+
+Web-Development 1
+
+<please make content>
+
+link to webpage          link to GitHub handouts
+
+
+
+
+Web-Development 2
+
+<please make content>
+
+link to webpage          link to GitHub handouts
+
+
+
+
+Industry Connections
+<please make content>
+
+link to webpage  
+
+
+
+Bottom of page: add webmasters
+
+
+
+
